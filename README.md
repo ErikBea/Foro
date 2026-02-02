@@ -1,8 +1,7 @@
 ## Instalación y Ejecución del Proyecto
 
-1. Instalar repositorio
-
-2. Desde el directorio en una linea de comandos:
+1. Clonar el repositorio y acceder al directorio del proyecto.
+2. Ejecutar los siguientes comandos:
 ```bash
 npm install
 npm run dev
