@@ -1,0 +1,4 @@
+.clickable-card:hover {
+    background-color: var(--bs-gray-200); 
+    cursor: pointer;
+}
