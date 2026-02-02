@@ -2,7 +2,8 @@
 
 1. Instalar repositorio
 
-Desde el directorio en una linea de comandos:
-
-2. npm install
-3. npm run dev
+2. Desde el directorio en una linea de comandos:
+```bash
+npm install
+npm run dev
+```
